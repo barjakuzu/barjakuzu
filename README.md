@@ -33,12 +33,6 @@ Now building the systems I used to operate.
 
 ---
 
-### GitHub Stats
+### Get in touch
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=barjakuzu&show_icons=true&theme=dark&hide_border=true&icon_color=4ECDC4&title_color=4ECDC4&bg_color=0d1117)
-
----
-
-### Based in Tbilisi, Georgia · Open to remote work
-
-[barjazz.dev](https://barjazz.dev)
+[LinkedIn](https://linkedin.com/in/barjakuzu) · [Instagram](https://www.instagram.com/barjazz/) · [Threads](https://www.threads.com/@barjazz) · [barjazz.dev](https://barjazz.dev)
